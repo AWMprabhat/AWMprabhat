@@ -7,7 +7,8 @@
 
 - ⚡ Fun fact **Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.🤣😂**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Fore more visit me:</h3>
+<p>🪝</p>
 <p align="left">
 <a href="https://twitter.com/iamprabhat18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamprabhat" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/prabhat-bhardwaj-598419233"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhat bhardwaj" height="30" width="40" /></a>
