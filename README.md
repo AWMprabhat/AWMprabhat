@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamprabhat18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamprabhat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prabhat bhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhat bhardwaj" height="30" width="40" /></a>
+<a href=https://www.linkedin.com/in/prabhat-bhardwaj-598419233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhat bhardwaj" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100021868091522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prabhat" height="30" width="40" /></a>
 <a href="https://instagram.com/iamprabhat18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamprabhat18" height="30" width="40" /></a>
 <a href="https://medium.com/@iamprabhat18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iamprabhat18" height="30" width="40" /></a>
