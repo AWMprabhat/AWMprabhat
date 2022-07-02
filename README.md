@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React & DSA**
 
-- 📫 How to reach me **prabhatbhardwajjuly18@gmail.com@gmail.com**
+- 📫 How to reach me **prabhatbhardwajjuly18@gmail.com**
 
 - 🌏 Visit to me **[portfolio](https://iamprabhat18.netlify.app/)**
 
@@ -34,7 +34,8 @@
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Follow me at:</h3>
+<p>feel free to Contect me</p>
 <hr>
 <p align="center">
 <a href="https://www.linkedin.com/in/prabhat-bhardwaj-598419233/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhat" height="30" width="40" /></a>
