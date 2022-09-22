@@ -5,15 +5,7 @@
 
 <h1 align="center">Hello 👋, I'm Prabhat Bhardwaj</h1>
 <h3 align="center">A Full Stack Developer is in making.</h3>
-<p align= "center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-React-skyblue"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AWMprabhat&label=Profile%20views&color=0e75b6&style=flat" alt="prabhat"/> 
 </p>
