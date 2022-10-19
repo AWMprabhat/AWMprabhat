@@ -28,6 +28,8 @@
 
 - 🌏 Visit to me **[portfolio](https://iamprabhat18.netlify.app/)**
 
+- 📃 Look at ***[Resume](https://drive.google.com/file/d/1nZcHIPSBobplKs1Jr5VUX6fAcZQOatfc/view?usp=sharing)**
+
 - 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/AWMprabhat)
 
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
