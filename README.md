@@ -28,7 +28,7 @@
 
 - 🌏 Visit to me **[portfolio](https://iamprabhat18.netlify.app/)**
 
-- 📃 Look at ***[Resume](https://drive.google.com/file/d/1nZcHIPSBobplKs1Jr5VUX6fAcZQOatfc/view?usp=sharing)***
+- 📃 Look at ***[Resume](https://drive.google.com/file/d/1pq5EVATIFo9s1z8viJIF1kZtS9NapjDB/view?usp=share_link)***
 
 - 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/AWMprabhat)
 
