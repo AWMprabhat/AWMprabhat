@@ -67,7 +67,7 @@
     </a>
 </p>
 <p align="center">
-    <a href="https://github.com/AWMprabhat/github-readme-stats"><img alt="Akshit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AWMprabhat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/AWMprabhat/github-readme-stats"><img alt="AAWMprabhat's Stats" src="https://github-readme-stats.vercel.app/api?username=AWMprabhat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
 
 
