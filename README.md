@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React & DSA**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node_JS, MongoDb & DSA**
 
 - 📫 How to reach me **prabhatbhardwajjuly18@gmail.com**
 
